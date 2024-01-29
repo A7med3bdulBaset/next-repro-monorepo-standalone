@@ -9,8 +9,7 @@ node_modules
 coverage
 
 # next.js
-.next/
-!apps/web/.next/standalone
+# .next
 out/
 build
 
