@@ -10,7 +10,7 @@ coverage
 
 # next.js
 .next/
-!apps/web/.next
+!apps/web/.next/standalone
 out/
 build
 
